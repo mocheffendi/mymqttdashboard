@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "898353156158",
+    "project_id": "myflutter-49607",
+    "storage_bucket": "myflutter-49607.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898353156158:android:cd14899208afa4f2d3416f",
+        "android_client_info": {
+          "package_name": "com.example.projector_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmtVRLvF9Gfty2Lvbuy35qTG-a0JclhrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898353156158:android:4c73bd968e57d279d3416f",
+        "android_client_info": {
+          "package_name": "com.wasismqtt.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmtVRLvF9Gfty2Lvbuy35qTG-a0JclhrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
